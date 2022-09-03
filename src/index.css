@@ -1,0 +1,7 @@
+body{
+  font-family:Rubik;
+  background-color: hsl(180, 31%, 95%);
+  overflow-x: hidden;
+  font-size: 15px;
+  /* height: 120vh; */
+}
